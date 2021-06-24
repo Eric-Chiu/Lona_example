@@ -49,3 +49,8 @@ let yellow: Color = #color(css: "#F59F00")
 ```tokens
 let orange: Color = #color(css: "#F76707")
 ```
+
+```tokens
+let hkjcBlue: Color = #color(css: "#0C64CC")
+```
+
